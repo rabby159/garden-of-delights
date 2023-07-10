@@ -91,3 +91,14 @@
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 }
+
+/* service section style  */
+.service-container{
+    /* width: 1440px; */
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 130px 240px;
+    background-position: center;
+
+}
