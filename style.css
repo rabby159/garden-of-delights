@@ -4,6 +4,14 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.btn{
+    border: none;
+    padding: 20px 40px;
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    font-size: 17px;
+}
 /* header section start  */
 .header-cointainer{
     height: 850px;
@@ -12,6 +20,16 @@
     justify-content: space-around;
     align-items: center;
     padding: 50px 240px 0px;
+    
+}
+.header-title{
+    font-size: 85px;
+}
+.header-title-describe{
+    margin-top: 10px;
+    margin-bottom: 25px;
+    font-size: 20px;
+    width: 85%;
     
 }
 .flower-img{
