@@ -12,6 +12,10 @@
     color: white;
     font-size: 17px;
 }
+.btn:hover{
+    cursor: pointer;
+    background-color:coral;
+}
 /* header section style  */
 .header-cointainer{
     height: 850px;
@@ -161,8 +165,8 @@ h2 > span{
 }
 .cards{
     display: flex;
-    justify-content: space-around;
-    gap: 15px;
+    justify-content: center;
+    gap: 60px;
     align-items: center;
     
 }
@@ -262,9 +266,10 @@ h2 > span{
     font-weight: 800;
 }
 .footer-title-describe{
-    padding-bottom: 15px;
+    padding-bottom: 5px;
 }
 .fa-brands{
     font-size: 25px;
     padding-right: 8px;
+    padding-bottom: 25px;
 }
