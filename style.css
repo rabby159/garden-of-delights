@@ -176,11 +176,12 @@ h2 > span{
     border-radius: 8px;
     width: 100%;
 }
-.card-border{
+/* .card-border{
     border: 1px solid rgb(199, 191, 191);
-}
+} */
 .card-item-name{
     font-size: 20px;
+    margin-top: 0px;
     margin-left: 10px;
 }
 .card-item-price{
@@ -244,4 +245,26 @@ h2 > span{
     background: #FFF;
     border: none;
     margin-right: 15px;
+}
+
+/* footer section style  */
+.footer-container{
+    background-color: black;
+    height: 45vh;
+    color: white;
+}
+.footer-content{
+    padding-top: 150px;
+    text-align: center;
+}
+.footer-title{
+    font-size: 48px;
+    font-weight: 800;
+}
+.footer-title-describe{
+    padding-bottom: 15px;
+}
+.fa-brands{
+    font-size: 25px;
+    padding-right: 8px;
 }
