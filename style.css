@@ -113,4 +113,24 @@
     height: 620px;
     padding: 50px 240px 0px;
     margin-bottom: 130px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.offer-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+h2 > span{
+    color: red;
+}
+.offer-title-describe{
+    margin: 20px;
+}
+.btn-offer{
+    padding: 15px 40px;
 }
