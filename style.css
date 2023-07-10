@@ -134,3 +134,14 @@ h2 > span{
 .btn-offer{
     padding: 15px 40px;
 }
+
+/* product section style  */
+.product-container{
+    height: 70vh;
+    margin: 130px 240px;
+    background-image: url("./Flower Asset/13982628_13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    
+}
