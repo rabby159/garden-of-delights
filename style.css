@@ -190,3 +190,26 @@ h2 > span{
 .card-details{
     margin-left: 10px;
 }
+
+/* instagram section style  */
+.insta-container{
+    height: 60vh;
+    margin: 130px 240px;
+}
+.insta-content{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.img-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.insta-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.insta-title-describe{
+    margin-top: 10px;
+}
