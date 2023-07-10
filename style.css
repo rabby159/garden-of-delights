@@ -143,5 +143,50 @@ h2 > span{
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
+
+}
+.product-content{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.product-titile{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.product-title-describe{
+    margin-top: 10px;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+    align-items: center;
     
+}
+.card{
+    width: 250px;
+    height: 350px;
+    background-color: white;
+    border-radius: 8px;
+}
+.card-img{
+    border-radius: 8px;
+    width: 100%;
+}
+.card-border{
+    border: 1px solid rgb(199, 191, 191);
+}
+.card-item-name{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.card-item-price{
+    margin-left: 10px;
+    font-size: 15px;
+}
+.card-details{
+    margin-left: 10px;
 }
