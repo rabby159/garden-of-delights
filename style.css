@@ -73,25 +73,27 @@
     
     background: rgba(71, 125, 17, 0.15);
 }
-.purple{
+.pink{
     background: rgba(167, 33, 98, 0.15);
 }
 .mixed{
     background: rgba(5, 151, 160, 0.15);
 }
-.yellow-img, .purple-img, .mixed-img{
+.yellow-img, .pink-img, .mixed-img{
     margin-top: 110px;
     width: 310px;
     height: 428px;
     
 }
-.purple-flower{
+.pink-flower{
     width: 464px;
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 }
-
+.flower-name{
+    margin: 20px;
+}
 /* service section style  */
 .service-container{
     height: 320px;
