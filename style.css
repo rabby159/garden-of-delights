@@ -94,11 +94,13 @@
 
 /* service section style  */
 .service-container{
-    /* width: 1440px; */
     height: 320px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     margin: 130px 240px;
     background-position: center;
-
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
 }
