@@ -23,6 +23,7 @@
     
 }
 .header-title{
+    color: #272727;
     font-size: 85px;
 }
 .header-title-describe{
@@ -47,6 +48,15 @@
     background: #FFF;
     text-align: center;
     padding: 170px 240px 0px;
+}
+.feature-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.feature-title-describe{
+    margin-top: 20px;
 }
 .feature-item{
     display: flex;
