@@ -213,3 +213,35 @@ h2 > span{
 .insta-title-describe{
     margin-top: 10px;
 }
+
+/* deals section style  */
+.deals-container{
+    height: 450px;
+    border-radius: 8px;
+    background-image: url("./Flower Asset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 130px 240px;
+    text-align: center;
+
+}
+.deals-content{
+    padding-top: 130px;
+}
+.deals-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.deals-title-describe{
+    margin-top: 8px;
+    margin-bottom: 20px;
+}
+#input-style{
+    width: 550px;
+    height: 60px;
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+    margin-right: 15px;
+}
