@@ -17,7 +17,8 @@
     background-color:coral;
 }
 /* header section style  */
-.header-cointainer{
+.header-container{
+    width: 74.8%;
     height: 850px;
     background: rgba(229, 84, 115, 0.10);
     display: flex;
@@ -48,6 +49,7 @@
 
 /* feature section style  */
 .feature-container{
+    width: 74.8%;
     height: 80vh;
     background: #FFF;
     text-align: center;
@@ -100,6 +102,7 @@
 }
 /* service section style  */
 .service-container{
+    width: 74.8%;
     height: 320px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
@@ -113,6 +116,7 @@
 
 /* offer section style  */
 .offer-container{
+    width: 74.8%;
     background: rgba(229, 84, 115, 0.05);
     height: 620px;
     padding: 50px 240px 0px;
@@ -141,6 +145,7 @@ h2 > span{
 
 /* product section style  */
 .product-container{
+    width: 74.8%;
     height: 70vh;
     margin: 130px 240px;
     background-image: url("./Flower Asset/13982628_13.jpg");
@@ -198,6 +203,7 @@ h2 > span{
 
 /* instagram section style  */
 .insta-container{
+    width: 74.8%;
     height: 60vh;
     margin: 130px 240px;
 }
@@ -221,6 +227,7 @@ h2 > span{
 
 /* deals section style  */
 .deals-container{
+    width: 74.8%;
     height: 450px;
     border-radius: 8px;
     background-image: url("./Flower Asset/Rectangle\ 9.png");
@@ -253,9 +260,11 @@ h2 > span{
 
 /* footer section style  */
 .footer-container{
+    /* width: 100%; */
     background-color: black;
     height: 45vh;
     color: white;
+    background-position: center;
 }
 .footer-content{
     padding-top: 150px;
